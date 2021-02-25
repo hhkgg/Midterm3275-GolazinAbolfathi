@@ -11,13 +11,13 @@ import java.util.concurrent.ThreadLocalRandom;
 @Service
 public class ServiceClass {
 
-    @Autowired
-    private RandomJokes randomJokes;
+//    @Autowired
+//    private RandomJokes randomJokes;
 
-    public String getJokes()
-    {
-        return randomJokes.getRandomJokes();
-    }
+//    public String getJokes()
+//    {
+//        //return ""randomJokes.getRandomJokes();
+//    }
 
 
 
